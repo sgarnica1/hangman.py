@@ -1,1 +1,11 @@
 venv/
+archivos.py
+assert.py
+data.py
+debugging.py
+dictionary_comprehensions.py
+errors.py
+list_comprehensions.py
+list_dictionaries.py
+archivos/names.txt
+archivos/numbers.txt
